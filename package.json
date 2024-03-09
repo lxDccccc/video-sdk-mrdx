@@ -1,0 +1,29 @@
+{
+  "name": "video-sdk-mrdx",
+  "version": "1.0.5",
+  "description": "video-sdk-mrdx",
+  "main": "index.js",
+  "files": [
+    "test",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "MrDx <maisyhuy140797@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conlaigi1497/video-sdk-mrdx"
+  },
+  "keywords": [
+    "video-sdk-mrdx"
+  ],
+  "bugs": {
+    "url": "https://github.com/conlaigi1497/video-sdk-mrdx/issues"
+  },
+  "homepage": "https://github.com/conlaigi1497/video-sdk-mrdx#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
